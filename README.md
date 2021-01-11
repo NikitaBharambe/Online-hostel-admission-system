@@ -1,0 +1,2 @@
+# Online-hostel-admission-system
+I have create this web application using ASP.net and mysql database. Actually this system created for government hostels where seats are allocated percentage and category wise. In this system, I added two types of log in one for admin and another for students. student have to login and fill the complete registration form and the result of selected students will be displayed. Students are selected percentage and category wise.
